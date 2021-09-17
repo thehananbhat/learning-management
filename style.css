@@ -1,6 +1,13 @@
 html, body{
 	height: 100%;
 }
+
+#center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
 	
 body{
 	margin: 0px;
@@ -18,10 +25,15 @@ h1, h2, h3{
 	
 p, ol, ul{
 	margin-top: 0;
+    margin-left: 3cm;
+    margin-right: 3 cm;
 }
 
 p {
 	line-height: 180%;
+    margin-left: 3cm;
+    margin-right: 3cm;
+    text-align: justify;
 }
 
 ol, ul{
@@ -54,14 +66,14 @@ header{
 }
 
 #logo img{
-	width: 60%;
+	width: 70%;
 	float: left;
 	padding: 10px 0px;
 }
 
 #menu{
 	float: right;
-	width: 70%;
+	width: 80%;
 	height: 100%;
 	margin: none;
 }
