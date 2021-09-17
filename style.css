@@ -61,12 +61,12 @@ header{
 	float: left;
 	padding: none;
 	margin: none;
-	height: 60px;
-	width: 30%;
+	height: 10px;
+	width: 20%;
 }
 
 #logo img{
-	width: 70%;
+	width: 50%;
 	float: left;
 	padding: 10px 0px;
 }
@@ -82,7 +82,7 @@ header{
 	text-align: center;
 	float: right;
 	margin: none;
-	background: #0074D9;
+	background: #d98200;
 }
 	
 #menu li{
@@ -107,8 +107,8 @@ header{
 	
 #menu li:hover a, #menu li span{
 	background: #FFF;
-	color: #0074D9;
-	border-left: 1px solid #0074D9;
+	color: #8dd900;
+	border-left: 1px solid #8dd900;
 	text-decoration: none;
 }
 
